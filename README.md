@@ -1,6 +1,6 @@
 docker-kandan-hubot
 ===================
-Dockerfile to build image which is installed Kandan and hubot.
+Dockerfile to build image which is installed Kandan and hubot.  
 blog: http://hidemium.hatenablog.com/entry/2014/11/03/022453
 
 ## Usage
