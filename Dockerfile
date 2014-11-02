@@ -41,7 +41,7 @@ RUN echo 'hubot:hubot' | chpasswd
 RUN echo 'hubot ALL=(ALL) NOPASSWD:ALL' > /etc/sudoers.d/hubot
 ENV HOME /home/hubot
 
-# install Kandani
+# install Kandan
 USER hubot
 WORKDIR /home/hubot
 RUN wget https://github.com/kandanapp/kandan/archive/v1.2.tar.gz
