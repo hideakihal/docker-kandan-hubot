@@ -1,0 +1,2 @@
+export HUBOT_KANDAN_HOST=localhost
+export HUBOT_KANDAN_PORT=3000
