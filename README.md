@@ -8,7 +8,7 @@ blog: http://hidemium.hatenablog.com/entry/2014/11/03/022453
 Building
 
 ```
-$ git clone https://github.com/hideakihal/docker-kandan-hubot
+$ git clone https://github.com/hideakihal/docker-kandan-hubot.git
 $ sudo docker build -t kandan-hubot docker-kandan-hubot
 ```
 
